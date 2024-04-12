@@ -1,8 +1,8 @@
 <div align="center">
-  <br />
+ 
    ![yoom banner](https://github.com/shivanirai28/zoom/assets/122675366/17b31db2-a326-4600-85ba-ba5d89a6e828)
 
-  <br />
+  
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
@@ -28,7 +28,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
+Yoom is a cutting-edge video conferencing application built with Next.js 14, Tailwind CSS, TypeScript, and Clerk. With Yoom, you can seamlessly connect with colleagues, friends, and family members from anywhere in the world, bringing the power of face-to-face communication right to your fingertips.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
